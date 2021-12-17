@@ -1,0 +1,15 @@
+build/
+.pyc
+__pycache__/
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+*.slvs~
+.venv/
+build/
+*.zip
+*.tar*
+kibus.log
+_build/
+*.FCStd[0-9]
+\#auto_saved_files\#
